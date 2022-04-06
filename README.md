@@ -1,4 +1,4 @@
-Oie! Bem vindo(a) ao Gabriel DiaS2
+Oie! Bem vindo(a) a minha página
 
 <div align="center">
   <a href="https://github.com/GabrielDiaS2">
