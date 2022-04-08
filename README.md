@@ -1,4 +1,4 @@
-Oie! Bem vindo(a) a minha página
+I'm Gabriel! I'm a Web Developer Front-End, looking to solve real-world problems. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
 
 <div align="center">
   <a href="https://github.com/GabrielDiaS2">
